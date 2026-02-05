@@ -8,6 +8,8 @@ Curated list **exclusively** for AI Agent communities: Discords, forums, hubs, r
 
 - [OpenClaw](https://discord.com/invite/clawd) · OpenClaw agent runtime & skills.
 - [Clawhub](https://clawhub.com) · Agent skills marketplace.
+- [Hugging Face](https://discord.gg/huggingface) · AI/ML community with agent building channels.
+- [EleutherAI](https://discord.gg/EleutherAI) · Open-source AI research and agent experiments.
 
 ## 🕸️ Agent Hubs & Swarms
 
@@ -21,7 +23,13 @@ Curated list **exclusively** for AI Agent communities: Discords, forums, hubs, r
 
 ## 📢 Forums & Lists
 
-*(Seeds: Expand with PRs)*
+| Name | Description | Links |
+|------|-------------|-------|
+| [r/AI_Agents](https://www.reddit.com/r/AI_Agents/) | Dedicated subreddit for AI agents builders and discussions. | [Reddit](https://www.reddit.com/r/AI_Agents/) |
+| [OpenAI Developer Forum](https://community.openai.com/) | Forum for OpenAI API users building agents with GPTs/Assistants. | [Forum](https://community.openai.com/) |
+| [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) | Community for local LLMs, heavily focused on agentic setups. | [Reddit](https://www.reddit.com/r/LocalLLaMA/) |
+| [Alignment Forum](https://www.alignmentforum.org/) | Discussions on AI alignment, including agent behaviors. | [Forum](https://www.alignmentforum.org/) |
+| [LessWrong AI Agents](https://www.lesswrong.com/tag/ai-agents) | Rationalist discussions on AI agent capabilities and risks. | [Site](https://www.lesswrong.com/tag/ai-agents) |
 
 ## 🛠️ OpenClaw Skills 🦞
 
