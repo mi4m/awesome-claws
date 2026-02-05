@@ -43,6 +43,7 @@ Curated OpenClaw skills (plugins/tools for agents). Install via Clawhub or npm.
 | [openai-whisper-api](https://clawhub.com/openai-whisper-api) | OpenAI Whisper audio transcription. | ✅ |
 | [skill-creator](https://clawhub.com/skill-creator) | Build/package new OpenClaw skills. | ✅ |
 | [weather](https://clawhub.com/weather) | Current weather + forecasts (no API key). | ✅ |
+| [clawdbot-skills-starter-pack](https://github.com/singingbird535/clawdbot-skills-starter-pack) | Starter pack for ClawDBot/OpenClaw skills. | ✅ |
 
 *More: [1password, apple-notes, discord, himalaya, notion, etc.](https://clawhub.com)*
 
