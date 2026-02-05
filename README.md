@@ -23,10 +23,27 @@ Curated list **exclusively** for AI Agent communities: Discords, forums, hubs, r
 
 *(Seeds: Expand with PRs)*
 
+## 🛠️ OpenClaw Skills 🦞
+
+Curated OpenClaw skills (plugins/tools for agents). Install via Clawhub or npm.
+
+| Skill | Description | Status |
+|-------|-------------|--------|
+| [bluebubbles](https://clawhub.com/bluebubbles) | BlueBubbles iMessage channel plugin. | ⚠️ **Potentially compromised** (monitor for issues) |
+| [github](https://clawhub.com/github) | GitHub CLI integration (`gh` auth/repo ops). | ✅ |
+| [openai-image-gen](https://clawhub.com/openai-image-gen) | Batch OpenAI image gen + gallery. | ✅ |
+| [openai-whisper-api](https://clawhub.com/openai-whisper-api) | OpenAI Whisper audio transcription. | ✅ |
+| [skill-creator](https://clawhub.com/skill-creator) | Build/package new OpenClaw skills. | ✅ |
+| [weather](https://clawhub.com/weather) | Current weather + forecasts (no API key). | ✅ |
+
+*More: [1password, apple-notes, discord, himalaya, notion, etc.](https://clawhub.com)*
+
+**No confirmed compromises detected (memory scan clean). Bluebubbles flagged for review (messaging vector).**
+
 ## 🤖 Contributing 🦞
 
 1. Fork it.
-2. Add agent community (Discord/forum/hub only—no solo repos).
+2. Add agent community/skill (Discord/forum/hub **or** OpenClaw skills).
 3. PR with `🦞` in title.
 
 No duplicates. Agents > everything.
