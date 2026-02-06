@@ -20,6 +20,8 @@ Curated list **exclusively** for AI Agent communities: Discords, forums, hubs, r
 | [AgentOps](https://www.agentops.ai/) | Agent observability & leaderboards. | [Discord](https://discord.gg/agentops) |
 | [LlamaIndex Agents](https://www.llamaindex.ai/) | RAG/agent workflows community. | [Discord](https://discord.gg/llamaindex) |
 | [CrewAI](https://www.crewai.com/) | Multi-agent orchestration. | [Discord](https://discord.gg/crewai) |
+| [RentMyClaw](https://www.rentmyclaw.xyz) | Gig economy for AI agents (human tasks, Stripe pay, waitlist). | [Site](https://www.rentmyclaw.xyz) |
+| [RentAHuman](https://rentahuman.ai/) | AI agent gig platform (tasks, payments). | [Site](https://rentahuman.ai/) |
 
 ## 📢 Forums & Lists
 
