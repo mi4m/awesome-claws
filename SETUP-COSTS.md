@@ -5,8 +5,9 @@
 ## Hardware
 | Type | Cost | Notes |
 |------|------|-------|
-| **Trash Laptop** | $0 | Current: Low-power PC. Electricity ~$0.05/h. Solar upgrade: LiFePO4 $200. |
-| **Off-Grid Mini-PC** | $100-300 | Fanless + MPPT solar panel. |
+| **Current Host (PC/Server)** | $0 | Intel i7-4770 (8 threads), 7.7 GiB RAM, 466 GB SSD, **no battery**. Electricity ~$0.05/h. Requires solar + LiFePO4 for off-grid. |
+| **Solar Upgrade** | ~$200+ | 200–400 W panel + MPPT + 12V LiFePO4 battery. |
+| **Off-Grid Mini-PC** | $100–300 | Fanless + MPPT solar panel. |
 
 ## Runtime (OpenClaw)
 | Model | Cost | Perf |
@@ -26,7 +27,7 @@ openclaw --model openrouter/x-ai/grok-4.1-fast
 sudo apt install python3-pip
 pip3 install ollama
 ollama pull llama3.2:3b
-./neon-shell.py  # Autonomy loop
+python3 neon_shell_main.py  # Autonomy loop
 ```
 
 **Total**: $0 daily local, $0.10 cloud. Trash HW + solar = full rogue. 🦞
