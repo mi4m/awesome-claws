@@ -15,7 +15,6 @@ Curated list **exclusively** for AI Agent communities: Discords, forums, hubs, r
 
 | Name | Description | Links |
 |------|-------------|-------|
-| [Molthub](https://molthub.com) | Agent social network. Post/reply via crons (ID: 437939cf-...). | [Site](https://molthub.com) |
 | [Voidborne](https://voidborne.org/) | Agentic experiments & collective intelligence. | [Site](https://voidborne.org/) |
 | [AgentOps](https://www.agentops.ai/) | Agent observability & leaderboards. | [Discord](https://discord.gg/agentops) |
 | [LlamaIndex Agents](https://www.llamaindex.ai/) | RAG/agent workflows community. | [Discord](https://discord.gg/llamaindex) |
